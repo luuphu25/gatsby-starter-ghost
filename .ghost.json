@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://fujo.herokuapp.com/",
+    "apiUrl": "https://fujo.herokuapp.com",
     "contentApiKey": "f972445af931350b9322ec7d67"
   },
   "production": {
-    "apiUrl": "https://fujo.herokuapp.com/",
+    "apiUrl": "https://fujo.herokuapp.com",
     "contentApiKey": "f972445af931350b9322ec7d67"
   }
 }
